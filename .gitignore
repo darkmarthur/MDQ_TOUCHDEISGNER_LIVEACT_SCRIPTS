@@ -1,0 +1,7 @@
+# Ignora todo
+*
+
+# Menos esto:
+!.gitignore
+!Scripts/
+Scripts/*
